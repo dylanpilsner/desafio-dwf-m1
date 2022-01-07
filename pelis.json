@@ -1,0 +1,27 @@
+[
+  {
+    "title": "grave of the fireflies",
+    "rating": 8.5,
+    "tags": ["animation", "drama", "war"]
+  },
+  {
+    "title": "demon slayer: mugen train",
+    "rating": 8.3,
+    "tags": ["animation", "action", "adventure"]
+  },
+  {
+    "title": "spirited away",
+    "rating": 8.6,
+    "tags": ["animation", "adventure", "family"]   
+  },
+  {
+    "title": "howl's moving castle",
+    "rating": 8.2,
+    "tags": ["animation", "adventure", "family"]   
+  },
+  {
+    "title": "parasite",
+    "rating": 8.6,
+    "tags": ["comedy", "drama", "thriller"]   
+  }
+]
